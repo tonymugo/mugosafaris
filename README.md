@@ -1,2 +1,2 @@
 # mugosafaris
-front + travel
+front + tours + travel + html + css
